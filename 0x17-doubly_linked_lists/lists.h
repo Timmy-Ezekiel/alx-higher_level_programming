@@ -1,5 +1,5 @@
-#ifndef TIMMYDOUBLY
-#define TIMMYDOUBLY
+#ifndef TIMMY
+#define TIMMY
 
 #include <stdlib.h>
 /**
